@@ -1,0 +1,68 @@
+{
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests Stack isEmpty - is empty by default",
+    "FrScTe2": "From Scratch Tests Stack push - can add items",
+    "FrScTe3": "From Scratch Tests Stack pop - can remove items",
+    "FrScTe4": "From Scratch Tests Stack getSize - accurately returns the number of elements in the stack",
+    "FrScTe5": "From Scratch Tests Stack peek - can preview the next item",
+    "FrScTe6": "From Scratch Tests Stack values are private",
+    "FrScTe7": "From Scratch Tests Queue isEmpty - is empty by default",
+    "FrScTe8": "From Scratch Tests Queue enqueue - can add items",
+    "FrScTe9": "From Scratch Tests Queue dequeue - can remove items",
+    "FrScTe10": "From Scratch Tests Queue getSize - accurately returns the number of elements in the queue",
+    "FrScTe11": "From Scratch Tests Queue peek - can preview the next item",
+    "FrScTe12": "From Scratch Tests Queue values are private",
+    "FrScTe13": "From Scratch Tests isBalancedParentheses can determine parentheses balance",
+    "FrScTe14": "From Scratch Tests isPalindrome can determine if a string is a palindrome",
+    "FrScTe15": "From Scratch Tests decimalToBinary can convert decmials to binary"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests Stack is empty by default": "FrScTe1",
+    "From Scratch Tests Stack can add items": "FrScTe2",
+    "From Scratch Tests Stack can remove items": "FrScTe3",
+    "From Scratch Tests Stack can hold mulitiple items": "FrScTe4",
+    "From Scratch Tests Stack can preview the next item": "FrScTe5",
+    "From Scratch Tests Queue is empty by default": "FrScTe7",
+    "From Scratch Tests Queue can add items": "FrScTe8",
+    "From Scratch Tests Queue can add multiple items": "FrScTe9",
+    "From Scratch Tests Queue can remove items": "FrScTe10",
+    "From Scratch Tests isBalancedParentheses can determine parentheses balance": "FrScTe13",
+    "From Scratch Tests isPalindrome can determine if a string is a palindrome": "FrScTe14",
+    "From Scratch Tests decimalToBinary can convert decmials to binary": "FrScTe15",
+    "From Scratch Tests Stack isEmpty - is empty by default": "FrScTe1",
+    "From Scratch Tests Stack push - can add items": "FrScTe2",
+    "From Scratch Tests Stack pop - can remove items": "FrScTe3",
+    "From Scratch Tests Stack getSize - accurately returns the number of elements in the stack": "FrScTe4",
+    "From Scratch Tests Stack peek - can preview the next item": "FrScTe5",
+    "From Scratch Tests Stack values are private": "FrScTe6",
+    "From Scratch Tests Queue isEmpty - is empty by default": "FrScTe7",
+    "From Scratch Tests Queue enqueue - can add items": "FrScTe8",
+    "From Scratch Tests Queue dequeue - can remove items": "FrScTe9",
+    "From Scratch Tests Queue getSize - accurately returns the number of elements in the queue": "FrScTe10",
+    "From Scratch Tests Queue peek - can preview the next item": "FrScTe11",
+    "From Scratch Tests Queue values are private": "FrScTe12"
+  },
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 1,
+      "FrScTe2": 1,
+      "FrScTe3": 1,
+      "FrScTe4": 1,
+      "FrScTe5": 1,
+      "FrScTe6": 1,
+      "FrScTe7": 1,
+      "FrScTe8": 1,
+      "FrScTe9": 1,
+      "FrScTe10": 1,
+      "FrScTe11": 1,
+      "FrScTe12": 1,
+      "FrScTe13": 1,
+      "FrScTe14": 1,
+      "FrScTe15": 1
+    }
+  },
+  "humanReadable": {
+    "From Scratch Tests": "15/15",
+    "finalTestScore": "FINAL SCORE: 15/15"
+  }
+}
