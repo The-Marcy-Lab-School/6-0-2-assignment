@@ -76,3 +76,16 @@ Examples:
   7   => 111
   8   => 1000
   ```
+
+## Leet Code Challenges
+
+For those looking for an additional challenge, check out these leet code problems related to stacks and queues:
+
+### Stack
+
+- [baseball-game](https://leetcode.com/problems/baseball-game/description)
+- [palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/description/)
+- [min-stack](https://leetcode.com/problems/min-stack/description/)
+
+### Queue
+- [num-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
