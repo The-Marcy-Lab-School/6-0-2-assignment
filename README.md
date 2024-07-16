@@ -35,7 +35,7 @@ Your `Queue` class should have a private `#values` array and the following metho
 
 **Use a Stack to solve the following three problems in linear runtime.** 
 
-These are common interview problems and you can find an algorithm to solve them online. We encourage you to **spend at least 15 minutes** attempting to come up with an algorithm on your own before looking it up. If you find an algorithm online, **STOP before copying** and take time to **internalize the algorithm**.
+These are common interview problems and you can find an algorithm to solve them online. We encourage you to **spend at least 15-20 minutes** trying to come up with an algorithm on your own before looking it up. If/when you find an algorithm online, **STOP before copying it** and take time to **understand and internalize the algorithm**. It might be helpful to make comments so that you can understand it when you come back to it later.
 
 > Note: You should ideally be using the `Stack` class you just implemented. If your `Stack` class is not working properly, you may use a normal array, but limit yourself to stack-like operations (`push`, `pop`, peeking at the last element). Upon review, you will likely be asked to resubmit with a functional `Stack` class.
 
